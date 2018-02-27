@@ -2,8 +2,14 @@
 
 This challenge is currently meant for the students of ```NIT Durgapur```. Commit yourself to our 90 days of code challenge and contribute to the improvement of the coding culture of our college.
 
+``` Starts from 28th February 2018 ```
+
 **```This challenge is going to help only if you solve the problems on your own, without cheating.  
 Your main goal should be learning, not scoring.```**
+
+## Ranklist
+
+First ranklist with username and score will be updated here on 10th March 2018.
 
 
 ## Getting Started
@@ -107,7 +113,7 @@ To mark the checkbox, change [ ] to [x].
 34. [ ] [https://www.hackerrank.com/challenges/flipping-bits/problem](https://www.hackerrank.com/challenges/flipping-bits/problem)
 35. [ ] [https://www.codechef.com/problems/CDX1604](https://www.codechef.com/problems/CDX1604)
 36. [ ] [https://goo.gl/u1ZFt7](https://goo.gl/u1ZFt7)
-37. [x] [http://www.spoj.com/problems/STRMATCH/](http://www.spoj.com/problems/STRMATCH/)
+37. [ ] [http://www.spoj.com/problems/STRMATCH/](http://www.spoj.com/problems/STRMATCH/)
 38. [ ] [https://goo.gl/NnEu73](https://goo.gl/NnEu73)
 39. [ ] [https://www.hackerrank.com/challenges/lonely-integer/problem](https://www.hackerrank.com/challenges/lonely-integer/problem)
 40. [ ] [https://www.codechef.com/problems/FIRESC](https://www.codechef.com/problems/FIRESC)
@@ -151,7 +157,7 @@ To mark the checkbox, change [ ] to [x].
 21. [ ] [https://www.hackerrank.com/challenges/pylons/problem](https://www.hackerrank.com/challenges/pylons/problem)
 22. [ ] [http://www.spoj.com/problems/MAKETREE/](http://www.spoj.com/problems/MAKETREE/)
 23. [ ] [https://www.codechef.com/problems/RRDAG](https://www.codechef.com/problems/RRDAG)
-24. [x] [http://www.spoj.com/problems/BUSYMAN/](http://www.spoj.com/problems/BUSYMAN/)
+24. [ ] [http://www.spoj.com/problems/BUSYMAN/](http://www.spoj.com/problems/BUSYMAN/)
 25. [ ] [http://codeforces.com/problemset/problem/579/A](http://codeforces.com/problemset/problem/579/A)
 26. [ ] [http://codeforces.com/problemset/problem/106/E](http://codeforces.com/problemset/problem/106/E)
 27. [ ] [http://www.spoj.com/problems/PARTIT/](http://www.spoj.com/problems/PARTIT/)
