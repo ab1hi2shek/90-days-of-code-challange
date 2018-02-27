@@ -43,6 +43,7 @@ X = data before current push
 Y = data after current push
 ```
 
+**Change the following block only**
 ```
 Number of easy questions solved: X Y
 Number of medium questions solved: X Y
@@ -106,7 +107,7 @@ To mark the checkbox, change [ ] to [x].
 34. [ ] [https://www.hackerrank.com/challenges/flipping-bits/problem](https://www.hackerrank.com/challenges/flipping-bits/problem)
 35. [ ] [https://www.codechef.com/problems/CDX1604](https://www.codechef.com/problems/CDX1604)
 36. [ ] [https://goo.gl/u1ZFt7](https://goo.gl/u1ZFt7)
-37. [ ] [http://www.spoj.com/problems/STRMATCH/](http://www.spoj.com/problems/STRMATCH/)
+37. [x] [http://www.spoj.com/problems/STRMATCH/](http://www.spoj.com/problems/STRMATCH/)
 38. [ ] [https://goo.gl/NnEu73](https://goo.gl/NnEu73)
 39. [ ] [https://www.hackerrank.com/challenges/lonely-integer/problem](https://www.hackerrank.com/challenges/lonely-integer/problem)
 40. [ ] [https://www.codechef.com/problems/FIRESC](https://www.codechef.com/problems/FIRESC)
@@ -150,7 +151,7 @@ To mark the checkbox, change [ ] to [x].
 21. [ ] [https://www.hackerrank.com/challenges/pylons/problem](https://www.hackerrank.com/challenges/pylons/problem)
 22. [ ] [http://www.spoj.com/problems/MAKETREE/](http://www.spoj.com/problems/MAKETREE/)
 23. [ ] [https://www.codechef.com/problems/RRDAG](https://www.codechef.com/problems/RRDAG)
-24. [ ] [http://www.spoj.com/problems/BUSYMAN/](http://www.spoj.com/problems/BUSYMAN/)
+24. [x] [http://www.spoj.com/problems/BUSYMAN/](http://www.spoj.com/problems/BUSYMAN/)
 25. [ ] [http://codeforces.com/problemset/problem/579/A](http://codeforces.com/problemset/problem/579/A)
 26. [ ] [http://codeforces.com/problemset/problem/106/E](http://codeforces.com/problemset/problem/106/E)
 27. [ ] [http://www.spoj.com/problems/PARTIT/](http://www.spoj.com/problems/PARTIT/)
